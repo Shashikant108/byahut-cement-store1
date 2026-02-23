@@ -49,7 +49,7 @@ const Footer = () => {
                         className="mt-4 md:mt-6 flex items-center space-x-2 md:space-x-3 text-gray-600 hover:text-red-700 transition-colors font-bold uppercase tracking-widest text-[9px] md:text-xs no-underline group"
                     >
                         <i className="fas fa-location-dot text-red-700 text-xl md:text-2xl group-hover:scale-110 transition-transform"></i>
-                        <p className="italic">Bhaiya Bahini (Pull ke Pass), Bhikhabandh, Siwan, Bihar (841244)</p>
+                        <p className="italic">Bhaiya Bahini, Bhikhabandh, Siwan, Bihar (841244)</p>
                     </a>
                 </div>
             </div>
